@@ -1,0 +1,15 @@
+D:\net\Labor1\DrillApp\DrillApp\obj\Debug\DrillApp.csproj.AssemblyReference.cache
+D:\net\Labor1\DrillApp\DrillApp\obj\Debug\MainWindow.g.cs
+D:\net\Labor1\DrillApp\DrillApp\obj\Debug\App.g.cs
+D:\net\Labor1\DrillApp\DrillApp\obj\Debug\DrillApp_MarkupCompile.cache
+D:\net\Labor1\DrillApp\DrillApp\obj\Debug\DrillApp_MarkupCompile.lref
+D:\net\Labor1\DrillApp\DrillApp\bin\Debug\DrillApp.exe.config
+D:\net\Labor1\DrillApp\DrillApp\bin\Debug\DrillApp.exe
+D:\net\Labor1\DrillApp\DrillApp\bin\Debug\DrillApp.pdb
+D:\net\Labor1\DrillApp\DrillApp\obj\Debug\MainWindow.baml
+D:\net\Labor1\DrillApp\DrillApp\obj\Debug\DrillApp.g.resources
+D:\net\Labor1\DrillApp\DrillApp\obj\Debug\DrillApp.Properties.Resources.resources
+D:\net\Labor1\DrillApp\DrillApp\obj\Debug\DrillApp.csproj.GenerateResource.cache
+D:\net\Labor1\DrillApp\DrillApp\obj\Debug\DrillApp.csproj.CoreCompileInputs.cache
+D:\net\Labor1\DrillApp\DrillApp\obj\Debug\DrillApp.exe
+D:\net\Labor1\DrillApp\DrillApp\obj\Debug\DrillApp.pdb

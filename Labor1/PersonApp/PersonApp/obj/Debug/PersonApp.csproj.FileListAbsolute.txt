@@ -1,0 +1,15 @@
+D:\net\Labor1\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.AssemblyReference.cache
+D:\net\Labor1\PersonApp\PersonApp\obj\Debug\MainWindow.g.cs
+D:\net\Labor1\PersonApp\PersonApp\obj\Debug\App.g.cs
+D:\net\Labor1\PersonApp\PersonApp\obj\Debug\PersonApp_MarkupCompile.cache
+D:\net\Labor1\PersonApp\PersonApp\obj\Debug\PersonApp_MarkupCompile.lref
+D:\net\Labor1\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+D:\net\Labor1\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+D:\net\Labor1\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+D:\net\Labor1\PersonApp\PersonApp\obj\Debug\MainWindow.baml
+D:\net\Labor1\PersonApp\PersonApp\obj\Debug\PersonApp.g.resources
+D:\net\Labor1\PersonApp\PersonApp\obj\Debug\PersonApp.Properties.Resources.resources
+D:\net\Labor1\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.cache
+D:\net\Labor1\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.CoreCompileInputs.cache
+D:\net\Labor1\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+D:\net\Labor1\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
